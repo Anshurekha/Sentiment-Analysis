@@ -1,0 +1,82 @@
+2024-08-14 15:51:33,329 - main - INFO - Model loaded successfully.
+2024-08-14 15:51:33,351 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 15:51:33,356 - main - INFO - Application startup
+2024-08-14 15:51:57,784 - main - INFO - Model loaded successfully.
+2024-08-14 15:51:57,802 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 15:51:57,804 - main - INFO - Application startup
+2024-08-14 15:53:08,729 - main - INFO - Prediction requested for text: this is not a bad habit , i always like to help people 
+2024-08-14 15:53:08,734 - main - INFO - Prediction result: Negative
+2024-08-14 15:53:29,703 - main - INFO - Prediction requested for text: this is not a bad habit 
+2024-08-14 15:53:29,704 - main - INFO - Prediction result: Neutral
+2024-08-14 15:53:40,396 - main - INFO - Prediction requested for text: this is a bad habit 
+2024-08-14 15:53:40,396 - main - INFO - Prediction result: Neutral
+2024-08-14 15:53:45,604 - main - INFO - Prediction requested for text: this is a bad habit 
+2024-08-14 15:53:45,604 - main - INFO - Prediction result: Neutral
+2024-08-14 15:53:53,422 - main - INFO - Prediction requested for text: this is a bad habit 
+2024-08-14 15:53:53,424 - main - INFO - Prediction result: Neutral
+2024-08-14 16:03:30,078 - main - INFO - Prediction requested for text: this is a good habit 
+2024-08-14 16:03:30,081 - main - INFO - Prediction result: Neutral
+2024-08-14 16:03:48,299 - main - INFO - Prediction requested for text: this is not  a good habit 
+2024-08-14 16:03:48,299 - main - INFO - Prediction result: Neutral
+2024-08-14 16:17:15,621 - main - INFO - Prediction requested for text: ram is very good boy
+2024-08-14 16:17:15,624 - main - INFO - Prediction result: Positive
+2024-08-14 16:43:46,219 - main - INFO - Prediction requested for text: ram is not good boy
+2024-08-14 16:43:46,219 - main - INFO - Prediction result: Positive
+2024-08-14 16:43:55,005 - main - INFO - Prediction requested for text: ram is not a good boy
+2024-08-14 16:43:55,005 - main - INFO - Prediction result: Positive
+2024-08-14 16:52:57,667 - main - INFO - Prediction requested for text: hello
+2024-08-14 16:52:57,669 - main - INFO - Prediction result: Neutral
+2024-08-14 18:30:14,868 - main - INFO - Application shutdown
+2024-08-14 18:30:14,946 - main - INFO - Application shutdown
+2024-08-14 18:30:18,691 - main - INFO - Model loaded successfully.
+2024-08-14 18:30:18,691 - main - INFO - Model loaded successfully.
+2024-08-14 18:30:18,708 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:30:18,711 - main - INFO - Application startup
+2024-08-14 18:30:18,711 - main - INFO - Application startup
+2024-08-14 18:30:27,734 - main - INFO - Application shutdown
+2024-08-14 18:30:30,130 - main - INFO - Model loaded successfully.
+2024-08-14 18:30:30,134 - main - INFO - Model loaded successfully.
+2024-08-14 18:30:30,141 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:30:30,144 - main - INFO - Application startup
+2024-08-14 18:30:30,145 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:30:30,147 - main - INFO - Application startup
+2024-08-14 18:30:56,695 - main - INFO - Application shutdown
+2024-08-14 18:30:56,696 - main - INFO - Application shutdown
+2024-08-14 18:30:58,913 - main - INFO - Model loaded successfully.
+2024-08-14 18:30:58,913 - main - INFO - Model loaded successfully.
+2024-08-14 18:30:58,924 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:30:58,925 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:30:58,926 - main - INFO - Application startup
+2024-08-14 18:30:58,927 - main - INFO - Application startup
+2024-08-14 18:31:10,105 - main - INFO - Application shutdown
+2024-08-14 18:31:10,109 - main - INFO - Application shutdown
+2024-08-14 18:31:12,259 - main - INFO - Model loaded successfully.
+2024-08-14 18:31:12,262 - main - INFO - Model loaded successfully.
+2024-08-14 18:31:12,270 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:31:12,272 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:31:12,275 - main - INFO - Application startup
+2024-08-14 18:31:36,846 - main - INFO - Application shutdown
+2024-08-14 18:31:46,432 - main - INFO - Model loaded successfully.
+2024-08-14 18:31:46,434 - main - INFO - Model loaded successfully.
+2024-08-14 18:31:46,445 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:31:46,446 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:31:46,447 - main - INFO - Application startup
+2024-08-14 18:31:46,448 - main - INFO - Application startup
+2024-08-14 18:31:57,243 - main - INFO - Application shutdown
+2024-08-14 18:31:57,243 - main - INFO - Application shutdown
+2024-08-14 18:42:06,145 - main - INFO - Model loaded successfully.
+2024-08-14 18:42:06,145 - main - INFO - Model loaded successfully.
+2024-08-14 18:42:06,147 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:42:06,147 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:42:06,147 - databases - INFO - Connected to database sqlite:///./test.db
+2024-08-14 18:42:06,147 - main - INFO - Application startup and connected to the database
+2024-08-14 18:42:06,160 - databases - INFO - Connected to database sqlite:///./test.db
+2024-08-14 18:42:06,160 - main - INFO - Application startup and connected to the database
+2024-08-14 18:42:18,636 - main - INFO - Model loaded successfully.
+2024-08-14 18:42:18,653 - main - INFO - Vectorizer loaded successfully.
+2024-08-14 18:42:18,653 - databases - INFO - Connected to database sqlite:///./test.db
+2024-08-14 18:42:18,653 - main - INFO - Application startup and connected to the database
+2024-08-14 18:42:55,858 - main - INFO - Prediction requested for text: you are too sad
+2024-08-14 18:42:55,864 - main - INFO - Prediction result: Negative
+2024-08-14 19:09:40,352 - main - INFO - Prediction requested for text: you are too happy
+2024-08-14 19:09:40,373 - main - INFO - Prediction result: Positive
